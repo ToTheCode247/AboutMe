@@ -2,7 +2,7 @@
 
 **Senior SDET & QA Lead | Test Automation | C# | Playwright | Selenium | API Testing | CI/CD | AI-Assisted Quality Engineering**
 
-I’m a Quality Engineering and Test Automation professional with **13+ years of experience** across automation framework development, API testing, CI/CD integration, release validation, and hands-on QA leadership.
+I’m a Software Engineer and Automation professional with **13+ years of experience** across automation framework development, API testing, CI/CD integration, release validation, and hands-on QA leadership.
 
 ## What I Work With
 
